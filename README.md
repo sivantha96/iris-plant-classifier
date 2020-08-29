@@ -6,6 +6,6 @@ A machine learning algorithm to classify the Iris Plants
 1. MATLAB version
 2. Python version
 
-# To use the MATLAB version, simply run the "Iris_Classifier.exe"
+#### To use the MATLAB version, simply run the "Iris_Classifier.exe"
 
-# To use the Python version, place the "iris.csv" in your C Disk (i.e. 'C:/iris.csv')
+#### To use the Python version, place the "iris.csv" in your C Disk (i.e. 'C:/iris.csv')
